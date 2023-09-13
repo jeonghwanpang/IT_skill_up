@@ -7,3 +7,6 @@
 
 ### 동아리 구성원
 <img width="300" alt="image" src="https://github.com/alswp006/IT_skill_up/assets/102672547/59d6574d-de9c-4496-9827-5f640aa22d8c">
+
+### 주차별 활동 계획
+<img width="905" alt="image" src="https://github.com/alswp006/IT_skill_up/assets/102672547/0283be55-6529-416a-8027-ccba3efeb1ca">
