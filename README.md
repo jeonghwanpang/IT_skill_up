@@ -5,8 +5,8 @@
 일주일동안 주차별 주제에 맞춰 각자 공부를 해오고 일주일에 한 번씩 만나 대표가 가져온 문제들을 풀이합니다.
 풀이 방법을 다들 공유하고 의논하며 최적화가 가장 잘 된 코드를 짠 사람이 그 주의 mvp가 됩니다.
 
-### 동아리 구성원
+## 동아리 구성원
 <img width="300" alt="image" src="https://github.com/alswp006/IT_skill_up/assets/102672547/59d6574d-de9c-4496-9827-5f640aa22d8c">
 
-### 주차별 활동 계획
-<img width="905" alt="image" src="https://github.com/alswp006/IT_skill_up/assets/102672547/0283be55-6529-416a-8027-ccba3efeb1ca">
+## 주차별 활동 계획
+<img width="1015" alt="image" src="https://github.com/alswp006/IT_skill_up/assets/102672547/54cecd29-c71d-4dbb-a54e-a2a6607ec59e">
