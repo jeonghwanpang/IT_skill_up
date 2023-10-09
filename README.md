@@ -12,4 +12,4 @@
 <img width="1015" alt="image" src="https://github.com/alswp006/IT_skill_up/assets/102672547/54cecd29-c71d-4dbb-a54e-a2a6607ec59e">
 
 ## 공부 내용 기록
-https://polite-railway-368.notion.site/39b3b261d305446982bc0ed2d0b8e5f7?pvs=4
+<a href="https://polite-railway-368.notion.site/39b3b261d305446982bc0ed2d0b8e5f7?pvs=4", target="_blank">풀어조 스터디 기록</a>
